@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Urban Bajar**
+- 🔭 I’m currently working on **Video Conference Application**
 
-- 🌱 I’m currently learning **Backend Development with Node JS**
+- 🌱 I’m currently learning **System Design**
 
-- 🏫 I’m currently persuing **BSC Computer science**
+- 🏫 I’m currently persuing **Master of Computer Applications (MCA) from BIT Mesra**
 
 - 🤝 I’m looking for help with **Senior Developers to gain knowledge**
 
